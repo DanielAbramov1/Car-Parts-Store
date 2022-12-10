@@ -1,0 +1,19 @@
+﻿  functions.c
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(29,36): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(32,31): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(62,31): warning C4133: '=': incompatible types - from 'user *' to 'user *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(63,31): warning C4133: '=': incompatible types - from 'user *' to 'user *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(102,37): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(143,31): warning C4133: '=': incompatible types - from 'parit *' to 'parit *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(144,31): warning C4133: '=': incompatible types - from 'parit *' to 'parit *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(166,24): warning C4133: '=': incompatible types - from 'parit *' to 'parit *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(176,24): warning C4133: '=': incompatible types - from 'user *' to 'user *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(198,69): warning C4133: '=': incompatible types - from 'parit *' to 'parit *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(200,29): warning C4133: '=': incompatible types - from 'parit *' to 'parit *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\functions.c(200,65): warning C4133: '=': incompatible types - from 'parit *' to 'parit *'
+  Generating code
+  0 of 40 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectFinal.vcxproj -> C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectFinal\Release\ProjectFinal.exe

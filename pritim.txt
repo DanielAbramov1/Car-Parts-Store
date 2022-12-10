@@ -1,0 +1,19 @@
+ID   Model     Part           Avaliability   Price      Date      
+0001 Mazda     Bumper F.      true           1000.34    12/12/2002
+0002 Mazda     Bumper R.      true           886.86     13/08/2002
+0003 Mazda     Door F.L.      false          2334.34    12/12/2002
+0004 Ford      Bumper F.      true           1666.34    12/11/2007
+0005 Ford      Bumper R.      true           446.86     13/08/2005
+0006 Ford      Door R.R.      false          2454.34    12/07/2012
+0007 Toyota    Bumper R.      true           1500.90    13/08/2002
+0008 Toyota    Door F.L.      false          3456.87    12/12/2002
+0009 Toyota    Bumper F.      true           1670.14    12/11/2007
+0010 Toyota    Bumper R.      true           999.35     13/08/2005
+0011 Toyota    Door R.R.      false          3345.02    12/07/2012
+0012 Honda     Bumper F.      true           1000.34    12/12/2002
+0013 Honda     Bumper R.      true           1000.86    13/08/2002
+0014 Honda     Headlights     false          560.34     12/12/2002
+0015 Honda     Foglights      true           446.86     13/08/2005
+0018 Honda     Door R.R.      false          1500.34    12/07/2012
+0019 Honda     Door R.L.      true           1500.90    13/08/2002
+0020 Honda     Door F.L.      false          1500.87    12/12/2002
